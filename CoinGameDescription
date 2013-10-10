@@ -1,0 +1,42 @@
+Coin Flip
+
+USE CASE Description
+
+1. A Player at random offers a prediction of a coin flip. 
+The other players gets the other option. The coin is flipped.
+The correct guess win
+
+Triggers
+
+1. A player at random offers prediction of a coin flip
+
+Actors
+
+1. A player who makes the prediction
+2. A player that gets the other option
+3. Coin
+4. Coin Game
+
+Preconditions
+
+1. 2 player are available
+2. A coint is available
+
+Goals
+
+1. One player win and the other lose
+
+Not Available
+
+1. Failed Conclustion, Extensions (Alternatives)
+
+Step of Execution
+
+1. A player at random is picked to predict the coin flip
+2. The player pick offers a prediction of the coin flip
+3. The other player gets the other coin flip option
+4. The coin is flipped and the result is provided
+5. A winner and loser is picked
+6. Offer to try again
+
+
