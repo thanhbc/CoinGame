@@ -1206,8 +1206,8 @@ fg=black</panel_attributes>
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>240</x>
-      <y>2260</y>
+      <x>510</x>
+      <y>2110</y>
       <w>320</w>
       <h>80</h>
     </coordinates>
@@ -1246,8 +1246,8 @@ fg=black</panel_attributes>
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>240</x>
-      <y>2150</y>
+      <x>210</x>
+      <y>2250</y>
       <w>310</w>
       <h>70</h>
     </coordinates>
@@ -1260,5 +1260,27 @@ fg=black</panel_attributes>
 + getCoinOption():String
 </panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>2070</y>
+      <w>170</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>150;70;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>330</x>
+      <y>2130</y>
+      <w>200</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>180;30;30;120</additional_attributes>
   </element>
 </diagram>
